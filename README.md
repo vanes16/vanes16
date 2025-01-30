@@ -21,5 +21,7 @@
 </div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=vanes16&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=radical" />
+  
 </p>
