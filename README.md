@@ -21,6 +21,6 @@
 </div>
 
 
-<img width=390 src="https://streak-stats.demolab.com?user=vanes16&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanes16&theme=tokyonight)](https://git.io/streak-stats)
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=tokyonight" />
   
