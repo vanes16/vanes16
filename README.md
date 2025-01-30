@@ -21,7 +21,7 @@
 </div>
 
 <p>
-  <img align="left" src="https://streak-stats.demolab.com?user=vanes16&theme=dark-minimalist&hide_border=true&mode=weekly" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=dark-minimalist" />
+  <img align="left" src="https://streak-stats.demolab.com/?user=vanes16&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=tokyonight" />
   
 </p>
