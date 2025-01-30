@@ -20,9 +20,7 @@
   <br/><br/><br/>
 </div>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vanes16&theme=tokyonight" alt="GitHub Streak" /></a>
-<p>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=tokyonight" />
+<img align="left" src="https://streak-stats.demolab.com?user=vanes16&theme=tokyonight"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=tokyonight" />
   
-</p>
