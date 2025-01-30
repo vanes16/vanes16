@@ -21,5 +21,5 @@
 </div>
 
 <img align="left" src="https://camo.githubusercontent.com/d763c5765b60427e8de3b646c939b1b2f59761ee9182f9f9ca3be1e21b6b2492/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d76616e65733136267468656d653d746f6b796f6e69676874" />
-<img align="right" width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=tokyonight" />
+<img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes16&layout=compact&theme=tokyonight" />
   
